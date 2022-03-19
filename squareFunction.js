@@ -1,7 +1,7 @@
 //recursive square function 
 function SquareFunction(){
     //the result equals to 0 if n=0
-    if (n==0) {
+    if (n==0) { 
         0
     }
     //a negative value of n will be calculated as |n|
